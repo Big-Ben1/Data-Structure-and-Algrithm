@@ -1,2 +1,3 @@
-# CS50
-this is my code.
+# Data-Structure-and-Algrithm
+
+this is my practice code.
